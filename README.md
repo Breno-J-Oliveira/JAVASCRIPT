@@ -1,18 +1,10 @@
-🎓 Lição Prática — Lição 1 a 3 (JavaScript Básico)
+🎓 Lição Prática — Lição 1 a 4 (JavaScript Básico)
+
 <p align="center"> <img src="https://img.shields.io/badge/status-em_desenvolvimento-yellow?style=for-the-badge" alt="Status"> <img src="https://img.shields.io/badge/versão-1.0-blue?style=for-the-badge" alt="Versão"> <img src="https://img.shields.io/badge/JS-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> </p>
-
-
-
-
----
-
-
-
-
 
 📘 Sobre este README
 
-Este README documenta 3 lições introdutórias de JavaScript baseadas nos arquivos HTML que você forneceu. O objetivo é:
+Este README documenta 4 lições introdutórias de JavaScript baseadas nos arquivos HTML fornecidos. O objetivo é:
 
 Explicar o que cada lição faz.
 
@@ -20,45 +12,42 @@ Definir objetivos de aprendizagem.
 
 Apontar melhorias e boas práticas.
 
-Oferecer versões modernas dos exemplos para execução imediata.
+Oferecer uma base sólida para quem está iniciando em JavaScript.
 
+🧭 Resumo das Lições (1 → 4)
 
-
-
-
----
-
-
-
-
-
-🧭 Resumo das Lições (1 → 3)
 Lição 1 — Olá, Mago!
 
-O que faz: insere um <script> no HTML que chama alert("Ola, Mago!").
+O que faz:
+Insere um script JavaScript no HTML que exibe uma mensagem de boas-vindas ao usuário por meio de uma caixa de alerta.
 
-Objetivo: demonstrar como incluir JavaScript em uma página HTML e como exibir mensagens modais com alert().
+Objetivo:
+Demonstrar como incluir JavaScript em uma página HTML e como exibir mensagens modais utilizando alert().
 
 Lição 2 — Saudação com prompt()
 
-O que faz: pede o nome do usuário com prompt() e escreve uma mensagem usando document.write().
+O que faz:
+Solicita o nome do usuário por meio de uma caixa de diálogo e exibe uma mensagem personalizada na página.
 
-
-
-
-
----
-
-
-
-
-
-👤 Contato <p align="center"> <a href="https://github.com/Breno-J-Oliveira" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.instagram.com/brenot300" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://x.com/BrenoJOliveira_" target="_blank"> <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"> </a> </p>
-
-Objetivo: introduzir leitura de entrada do usuário e concatenar string com uma variável.
+Objetivo:
+Introduzir a leitura de dados do usuário utilizando prompt() e a concatenação de texto com variáveis.
 
 Lição 3 — Formulário e concatenação
 
-O que faz: recebe nome e sobrenome via inputs de formulário e, ao clicar em um botão, concatena e mostra o resultado via alert().
+O que faz:
+Recebe nome e sobrenome por meio de campos de formulário e, ao clicar em um botão, exibe o nome completo concatenado em uma mensagem.
 
-Objetivo: trabalhar com elementos de formulário, referenciá-los pelo name do form e manipular valores dos inputs.
+Objetivo:
+Trabalhar com elementos de formulário, acessar valores de inputs e manipular dados inseridos pelo usuário.
+
+Lição 4 — Somatória de dois números inteiros
+
+O que faz:
+Solicita dois números inteiros ao usuário e apresenta o resultado da soma diretamente na página.
+
+Objetivo:
+Ensinar o uso de variáveis numéricas, conversão de dados de texto para número e a realização de operações matemáticas básicas em JavaScript.
+
+👤 Contato
+
+<p align="center"> <a href="https://github.com/Breno-J-Oliveira" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.instagram.com/brenot300" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://x.com/BrenoJOliveira_" target="_blank"> <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"> </a> </p>
